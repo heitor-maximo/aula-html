@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(80, 80, 80);
+    color:rgb(255, 255, 255);
+}
+.linkpage:hover{
+ opacity: 0.6;
+}
+.header-page{
+    margin-bottom:25px;
+    margin-top:15px;
+}
+.header-page .logo {
+    border-radius: 100%;
+    overflow: hidden;
+    width: 75%;
+}
+.menu{
+    margin-top: 30px;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.menu li a{
+    color:rgb(255, 255, 255);
+}
